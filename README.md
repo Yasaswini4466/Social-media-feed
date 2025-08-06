@@ -293,5 +293,6 @@ For support and questions:
 ---
 
 **Built with ❤️ for the Indian tech community**
-#   s o c i a l m e d i a  
+#   s o c i a l m e d i a 
+ 
  
